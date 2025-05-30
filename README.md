@@ -1,3 +1,51 @@
+# 🎮 Tic Tac Toe – Terminal Game by Palak
+
+A simple, fun, and interactive **Tic Tac Toe** game built using Python for the terminal.
+
+Developed as part of my project to demonstrate logic-based gameplay using `if-else`, loops, and basic Python data structures.
+
+## 📌 Features
+
+- 🎲 Classic 3x3 Tic Tac Toe board
+- 🧠 Smart turn-based logic for two-player mode
+- 🎨 Colored board using ANSI escape codes for better UI
+- ❌⭕ Displays clear player turns and win/draw conditions
+- 🖥️ Easy to run on any terminal
+
+## 🖼️ Demo Screenshot
+![image](https://github.com/user-attachments/assets/6155155a-a10c-4f27-9ca4-e7203e333621)
+
+## 🚀 Getting Started
+
+### 🔧 Requirements
+- Python 3.x installed on your system
+
+### ▶️ Run the Game
+
+```bash
+python tic_tac_toe.py
+
+
+📁 Project Structure
+File	Description
+tic_tac_toe.py	Main game logic
+README.md	This documentation
+screenshot.png	Demo image (optional for GitHub)
+
+🙋‍♀️ Author
+Made with ♡ and 🧠 by Palak
+🔗 Connect with me on LinkedIn
+
+⭐ Feedback & Support
+If you like this project, consider giving it a ⭐ on GitHub and connecting on LinkedIn.
+Pull requests and suggestions are always welcome!
+
+✅ To Use:
+
+Copy this content into a file named README.md.
+
+Save it in the same folder as your tic_tac_toe.py.
+
 # CODSOFT_TASK2
 import math
 
