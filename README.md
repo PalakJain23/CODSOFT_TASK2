@@ -15,22 +15,23 @@ Developed as part of my project to demonstrate logic-based gameplay using `if-el
 ## 🖼️ Demo Screenshot
 ![image](https://github.com/user-attachments/assets/6155155a-a10c-4f27-9ca4-e7203e333621)
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
 ### 🔧 Requirements
 - Python 3.x installed on your system
 
-### ▶️ Run the Game
-
-```bash
+▶️ Run the Game
 python tic_tac_toe.py
 
 
-📁 Project Structure
-File	Description
-tic_tac_toe.py	Main game logic
-README.md	This documentation
-screenshot.png	Demo image (optional for GitHub)
+## 📁 Project Structure
+
+| File              | Description                             |
+|-------------------|-----------------------------------------|
+| `chatbot.py`      | Main chatbot logic                      |
+| `chat_history.txt`| Auto-generated (optional) chat log      |
+| `README.md`       | This documentation                      |
+
 
 🙋‍♀️ Author
 Made with ♡ and 🧠 by Palak
